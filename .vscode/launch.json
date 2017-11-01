@@ -4,8 +4,38 @@
    // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
    "version": "0.2.0",
    "configurations": [
+       {
+           "name": "RuleEngine.Api",
+           "type": "coreclr",
+           "request": "launch",
+           "preLaunchTask": "build",
+           "program": "${workspaceRoot}/src/RuleEngine.Api/bin/Debug/netcoreapp2.0/RuleEngine.Api.dll",
+           "args": [],
+           "cwd": "${workspaceRoot}",
+           "stopAtEntry": false,
+           "launchBrowser": {
+               "enabled": true,
+               "args": "${auto-detect-url}",
+               "windows": {
+                   "command": "cmd.exe",
+                   "args": "/C start ${auto-detect-url}"
+               },
+               "osx": {
+                   "command": "open"
+               },
+               "linux": {
+                   "command": "xdg-open"
+               }
+           },
+           "env": {
+               "ASPNETCORE_ENVIRONMENT": "Development"
+           },
+           "sourceFileMap": {
+               "/Views": "${workspaceRoot}/Views"
+           }
+       },
         {
-            "name": ".NET Core Launch (web)",
+            "name": "misc",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
