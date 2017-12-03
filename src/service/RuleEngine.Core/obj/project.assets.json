@@ -25,16 +25,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "RenderEngine.Core.Abstractions/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/RenderEngine.Core.Abstractions.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/RenderEngine.Core.Abstractions.dll": {}
-        }
       }
     }
   },
@@ -179,17 +169,11 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "RenderEngine.Core.Abstractions/1.0.0": {
-      "type": "project",
-      "path": "../RenderEngine.Core.Abstractions/RenderEngine.Core.Abstractions.csproj",
-      "msbuildProject": "../RenderEngine.Core.Abstractions/RenderEngine.Core.Abstractions.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.0",
-      "RenderEngine.Core.Abstractions >= 1.0.0"
+      "NETStandard.Library >= 2.0.0"
     ]
   },
   "packageFolders": {
@@ -198,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core/RuleEngine.Core.csproj",
+      "projectUniqueName": "/Users/yurivlasov/Documents/Development/RuleEngine/src/service/RuleEngine.Core/RuleEngine.Core.csproj",
       "projectName": "RuleEngine.Core",
-      "projectPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core/RuleEngine.Core.csproj",
+      "projectPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/service/RuleEngine.Core/RuleEngine.Core.csproj",
       "packagesPath": "/Users/yurivlasov/.nuget/packages/",
-      "outputPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core/obj/",
+      "outputPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/service/RuleEngine.Core/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yurivlasov/.config/NuGet/NuGet.Config"
@@ -215,12 +199,13 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {
-            "/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/RenderEngine.Core.Abstractions.csproj": {
-              "projectPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/RenderEngine.Core.Abstractions.csproj"
-            }
-          }
+          "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
@@ -229,14 +214,10 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0"
+            "version": "2.0.0",
+            "autoReferenced": true
           }
-        },
-        "imports": [
-          "net461"
-        ],
-        "assetTargetFallback": true,
-        "warn": true
+        }
       }
     }
   }

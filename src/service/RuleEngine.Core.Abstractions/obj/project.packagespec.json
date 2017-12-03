@@ -1,31 +1,27 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core.Abstractions/RuleEngine.Core.Abstractions.csproj",
-    "projectName": "RuleEngine.Core.Abstractions",
-    "projectPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core.Abstractions/RuleEngine.Core.Abstractions.csproj",
-    "outputPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core.Abstractions/obj/",
+    "projectUniqueName": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/RenderEngine.Core.Abstractions.csproj",
+    "projectName": "RenderEngine.Core.Abstractions",
+    "projectPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/RenderEngine.Core.Abstractions.csproj",
+    "outputPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
-      "netcoreapp2.0"
+      "netstandard2.0"
     ],
     "frameworks": {
-      "netcoreapp2.0": {
+      "netstandard2.0": {
         "projectReferences": {}
       }
     }
   },
   "frameworks": {
-    "netcoreapp2.0": {
+    "netstandard2.0": {
       "dependencies": {
-        "Microsoft.NETCore.App": {
+        "NETStandard.Library": {
           "suppressParent": "All",
           "target": "Package",
           "version": "2.0.0"
-        },
-        "System.Linq": {
-          "target": "Package",
-          "version": "4.3.0"
         }
       },
       "imports": [
