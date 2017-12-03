@@ -1,0 +1,8 @@
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/bin/Debug/netstandard2.0/RenderEngine.Core.Abstractions.deps.json
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/bin/Debug/netstandard2.0/RenderEngine.Core.Abstractions.dll
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/bin/Debug/netstandard2.0/RenderEngine.Core.Abstractions.pdb
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/obj/Debug/netstandard2.0/RenderEngine.Core.Abstractions.csproj.CoreCompileInputs.cache
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/obj/Debug/netstandard2.0/RenderEngine.Core.Abstractions.AssemblyInfoInputs.cache
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/obj/Debug/netstandard2.0/RenderEngine.Core.Abstractions.AssemblyInfo.cs
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/obj/Debug/netstandard2.0/RenderEngine.Core.Abstractions.dll
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/obj/Debug/netstandard2.0/RenderEngine.Core.Abstractions.pdb

@@ -1,0 +1,9 @@
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core.Abstractions/bin/Debug/netcoreapp2.0/RuleEngine.Core.Abstractions.deps.json
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core.Abstractions/bin/Debug/netcoreapp2.0/RuleEngine.Core.Abstractions.dll
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core.Abstractions/bin/Debug/netcoreapp2.0/RuleEngine.Core.Abstractions.pdb
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core.Abstractions/obj/Debug/netcoreapp2.0/RuleEngine.Core.Abstractions.csprojResolveAssemblyReference.cache
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core.Abstractions/obj/Debug/netcoreapp2.0/RuleEngine.Core.Abstractions.csproj.CoreCompileInputs.cache
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core.Abstractions/obj/Debug/netcoreapp2.0/RuleEngine.Core.Abstractions.AssemblyInfoInputs.cache
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core.Abstractions/obj/Debug/netcoreapp2.0/RuleEngine.Core.Abstractions.AssemblyInfo.cs
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core.Abstractions/obj/Debug/netcoreapp2.0/RuleEngine.Core.Abstractions.dll
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core.Abstractions/obj/Debug/netcoreapp2.0/RuleEngine.Core.Abstractions.pdb

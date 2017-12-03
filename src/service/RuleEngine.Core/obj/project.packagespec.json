@@ -1,0 +1,38 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core/RuleEngine.Core.csproj",
+    "projectName": "RuleEngine.Core",
+    "projectPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core/RuleEngine.Core.csproj",
+    "outputPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/RenderEngine.Core.Abstractions.csproj": {
+            "projectPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RenderEngine.Core.Abstractions/RenderEngine.Core.Abstractions.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

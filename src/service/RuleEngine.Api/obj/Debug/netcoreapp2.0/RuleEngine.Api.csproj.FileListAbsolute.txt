@@ -1,0 +1,15 @@
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/bin/Debug/netcoreapp2.0/addNumbers.js
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/bin/Debug/netcoreapp2.0/RuleEngine.Api.deps.json
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/bin/Debug/netcoreapp2.0/RuleEngine.Api.runtimeconfig.json
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/bin/Debug/netcoreapp2.0/RuleEngine.Api.runtimeconfig.dev.json
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/bin/Debug/netcoreapp2.0/RuleEngine.Api.dll
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/bin/Debug/netcoreapp2.0/RuleEngine.Api.pdb
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/bin/Debug/netcoreapp2.0/RenderEngine.Core.Abstractions.dll
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/bin/Debug/netcoreapp2.0/RuleEngine.Core.dll
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/bin/Debug/netcoreapp2.0/RuleEngine.Core.pdb
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/bin/Debug/netcoreapp2.0/RenderEngine.Core.Abstractions.pdb
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/obj/Debug/netcoreapp2.0/RuleEngine.Api.csproj.CoreCompileInputs.cache
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/obj/Debug/netcoreapp2.0/RuleEngine.Api.AssemblyInfoInputs.cache
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/obj/Debug/netcoreapp2.0/RuleEngine.Api.AssemblyInfo.cs
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/obj/Debug/netcoreapp2.0/RuleEngine.Api.dll
+/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/obj/Debug/netcoreapp2.0/RuleEngine.Api.pdb

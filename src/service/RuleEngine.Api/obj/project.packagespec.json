@@ -1,0 +1,45 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/RuleEngine.Api.csproj",
+    "projectName": "RuleEngine.Api",
+    "projectPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/RuleEngine.Api.csproj",
+    "outputPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Api/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core/RuleEngine.Core.csproj": {
+            "projectPath": "/Users/yurivlasov/Documents/Development/RuleEngine/src/RuleEngine.Core/RuleEngine.Core.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.NodeServices": {
+          "target": "Package",
+          "version": "2.0.1"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
